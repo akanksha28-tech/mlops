@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dell/OneDrive/Desktop/Newproject/ml_project/mlruns/831020560998396329/57ea017035234304873535c8c31bd6e7/artifacts
+end_time: 1753333500525
+entry_point_name: ''
+experiment_id: '831020560998396329'
+lifecycle_stage: active
+run_id: 57ea017035234304873535c8c31bd6e7
+run_name: whimsical-panda-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753333490538
+status: 3
+tags: []
+user_id: Dell

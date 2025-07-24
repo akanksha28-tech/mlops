@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dell/OneDrive/Desktop/Newproject/ml_project/mlruns/831020560998396329/25a0bc6d485a45739f00c0047cf39182/artifacts
+end_time: 1753280015700
+entry_point_name: ''
+experiment_id: '831020560998396329'
+lifecycle_stage: active
+run_id: 25a0bc6d485a45739f00c0047cf39182
+run_name: wise-snail-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753280004555
+status: 3
+tags: []
+user_id: Dell

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dell/OneDrive/Desktop/Newproject/ml_project/mlruns/831020560998396329/ad61186e62d04ef191af272f44218778/artifacts
+end_time: 1753331086880
+entry_point_name: ''
+experiment_id: '831020560998396329'
+lifecycle_stage: active
+run_id: ad61186e62d04ef191af272f44218778
+run_name: handsome-panda-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753331073536
+status: 3
+tags: []
+user_id: Dell
