@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc0996dc1b3e1510b3c1498ec22b97fb6e2eb0ad4bed73e2edd788c2e4943cf0
-size 146
+study_time,attendance,gender,score
+4,90,1,78
+6,95,0,85
+3,80,0,67
+8,98,1,92
+2,70,0,58
+5,88,1,74
+7,96,0,90
+1,60,1,45
+4,85,0,73
+6,90,1,80

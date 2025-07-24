@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Dell/OneDrive/Desktop/Newproject/ml_project/mlruns/831020560998396329/models/m-20d464fc823742a4bc6aa332c37157c2/artifacts
+creation_timestamp: 1753346472719
+experiment_id: '831020560998396329'
+last_updated_timestamp: 1753346481861
+model_id: m-20d464fc823742a4bc6aa332c37157c2
+model_type: null
+name: student_model
+source_run_id: 326fc32c94634d3588f438d26416e488
+status: 2
+status_message: null
